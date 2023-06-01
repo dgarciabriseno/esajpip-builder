@@ -1,0 +1,5 @@
+#!/bin/bash
+# esajpip expects server.cfg to be in the CWD
+# so you need to cd into the install location before running it.
+cd /usr/server/esajpip
+./esajpip
