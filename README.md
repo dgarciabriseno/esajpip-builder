@@ -1,5 +1,5 @@
 # ESAJPIP Builder
-Containerized environment for compiling & packaging [esajpip](https://github.com/Helioviewer-Project/esajpip-SWHV/)
+Containerized environment for compiling & packaging [esajpip](https://github.com/Helioviewer-Project/esajpip-SWHV/) for OL8
 
 ## Usage
 ```bash
